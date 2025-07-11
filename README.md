@@ -1,4 +1,4 @@
-# Assignment-1-2
+# Basic Python Concepts
 # 📘 Assignment 1: Basic Python Concepts
 ## 🧮 Task 1: Basic Mathematical Operations
 
